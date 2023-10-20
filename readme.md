@@ -6,4 +6,4 @@ With this I was able to utilize a US states shapefile by implementing the new la
 
 For my symbolization, I utilized 9 classes (grades) ranging from 0 to 301 (0, 10, 25.5, 36, 47.5, 55.5, 76, 124, 301). This quantile class break provided the best overall visual impact. I also used the 'OrRd' chroma scale to accurately depict the range of landfills among the states/territory. 
 
-I feel that my design provides an interesting experience to the map reader. The range of colors expresses the diversity of landfill locations among areas in the United States. 
+I feel that my design provides an interesting experience to the map reader. The range of colors expresses the diversity of landfill locations among areas in the United States.
